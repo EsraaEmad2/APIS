@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CreateUsersByExcelTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>97fca915-4daf-4d9d-82f9-f7e0a99c6c9b</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData(null).getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>fc4366ad-cfdf-4e2f-8343-d4b2d4405450</id>
+      <masked>false</masked>
+      <name>UserName</name>
+   </variable>
+</TestCaseEntity>
